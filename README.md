@@ -1,4 +1,4 @@
-# 卡卡西的博客 :link: https://kakaxi-1.github.io/blog 
+卡卡西的博客 :link: https://kakaxi-1.github.io/blog 
 ### :page_facing_up: [2](https://kakaxi-1.github.io/blog/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 13 
